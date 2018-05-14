@@ -73,7 +73,7 @@ public class EmployeeDAOTest {
 	*/
 
 	
-	
+	/*
 	
 	@Test
 	public void testFindEmployeeById() {
@@ -98,7 +98,7 @@ public class EmployeeDAOTest {
 			fail(e.getMessage());
 		}
 
-	}
+	}*/
 /*
 	@Test
 	public void testFindAllEmployees() {
